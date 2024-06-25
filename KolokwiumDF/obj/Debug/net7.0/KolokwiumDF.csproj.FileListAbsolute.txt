@@ -226,3 +226,4 @@ C:\Users\s19787\Desktop\Kolokwium_2_poprawa\KolokwiumDF\obj\Debug\net7.0\Kolokwi
 C:\Users\s19787\Desktop\Kolokwium_2_poprawa\KolokwiumDF\obj\Debug\net7.0\KolokwiumDF.genruntimeconfig.cache
 C:\Users\s19787\Desktop\Kolokwium_2_poprawa\KolokwiumDF\obj\Debug\net7.0\ref\KolokwiumDF.dll
 C:\Users\s19787\Desktop\Kolokwium_2_poprawa\KolokwiumDF\obj\Debug\net7.0\Kolokwiu.086ED34E.Up2Date
+C:\Users\s19787\Desktop\Kolokwium_2_poprawa\KolokwiumDF\obj\Debug\net7.0\KolokwiumDF.sourcelink.json
